@@ -1,5 +1,7 @@
  .banner{
-    margin-top:-10vh;
+    /* margin-top:-10vh; */
+	 padding-top:30px;
+	 /* padding-bottom: 190x; */
     height:80vh;
     margin-bottom: -80px;
     color: white;
